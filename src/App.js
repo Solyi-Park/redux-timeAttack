@@ -1,4 +1,5 @@
 import "./App.css";
+import './reset.css'
 import Router from "./shared/Router";
 
 function App() {
